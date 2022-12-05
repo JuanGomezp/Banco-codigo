@@ -3,7 +3,7 @@
 class Bank_Account:
     def __init__(self):
         self.balance=0
-        print("HOLA BIENVENIDO, AL BANCO ESTADO")
+        print("HOLA BIENVENIDO AL BANCO ESTADO")
  
     def deposit(self):
         amount=float(input("Ingrese el saldo a depositar: "))
